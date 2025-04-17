@@ -4,3 +4,5 @@
 0.0.1 Created README for project portfolio.
 
 0.0.1A Created hdocs folder, TEMPLATE html page, STYLE css sheet, and css folder.
+
+0.0.1B Updated Footer in TEMPLATE html page for the correct year of date.
