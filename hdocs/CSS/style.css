@@ -1,0 +1,15 @@
+*{
+    background-color: #c4c4c4;
+    padding: 0;
+    margin: 0;
+}
+header{
+    display: inline-block;
+    background-color: darkslategray;
+}
+nav{
+    display: inline-block;
+}
+nav a{
+    display: inline;
+}
