@@ -1,5 +1,7 @@
 # Custom Dictionary Words
 Drako
+dwarven
+Dwarga-ur
 Morgolen
 Sladridor
 Vishious

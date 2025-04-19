@@ -17,3 +17,5 @@
 0.0.1E#2 Corrected Spelling errors and added proper names to dictionary.
 
 0.0.1.2 Created and started INDEX and ABOUT html pages and added some content to them. Added more words to custom dictionary.
+
+0.0.1.2A Updated footer to include updated last and corrected the line on which the copyright symbol sat. Updated ABOUT html page main section.
