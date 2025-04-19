@@ -1,4 +1,5 @@
 # Drakos-cs50-Learning
+
 # Drako's Project Porfolio For learning Computer Science following along with Harvard's CS50
 
 0.0.1 Created README for project portfolio.
@@ -10,3 +11,5 @@
 0.0.1C Updated TEMPLATE for more robust design and included comments explaining sections of code.
 
 0.0.1D Updated TEMPLATE and CSS for base design. Added a Logo.
+
+0.0.1E Corrected the Copyright to Project Vishious the group rather than Drako Vishious the individual. Edited CSS to simplify code.

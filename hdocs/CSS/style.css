@@ -9,7 +9,5 @@ header{
 }
 nav{
     display: inline-block;
-}
-nav a{
-    display: inline;
+    background-color: darkslategray;
 }
