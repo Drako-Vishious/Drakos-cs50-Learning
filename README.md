@@ -15,3 +15,5 @@
 0.0.1E Corrected the Copyright to Project Vishious the group rather than Drako Vishious the individual. Edited CSS to simplify code.
 
 0.0.1E#2 Corrected Spelling errors and added proper names to dictionary.
+
+0.0.1.2 Created and started INDEX and ABOUT html pages and added some content to them. Added more words to custom dictionary.
